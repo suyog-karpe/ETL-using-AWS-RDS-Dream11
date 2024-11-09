@@ -9,7 +9,7 @@ create a DB cluter identifier any name eg: database-1<br>
 Make sure you turn off any additional payment servives and dont swith from default settings.<br>
 Create user(name):eg-admin or root and password.<br>
 <br>
-
+<br>
 After creating database click on it goto Scroll down Go to VPC Security groups<br>
 Click on the big number go down click on inbound rules edit inbound rules<br>
 Change type --> all traffic<br>
